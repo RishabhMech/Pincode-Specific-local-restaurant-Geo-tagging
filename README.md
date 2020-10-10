@@ -1,1 +1,1 @@
-# Pincode-Specific-local-restaurant-Geo-tagging
+This project utilizes Foursquare API to answer the Questions like : How many types of foods are available in a restaurant? What type of restaurants are present in a particular area? Which is the most nearest to me with good rating? This algorithm boasts of Nested File handling over conventional Data cleaning.
